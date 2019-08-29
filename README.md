@@ -1,2 +1,3 @@
 # React-and-Redux-projects
-Contains React and Redux js projects 
+Basic project uses users Geo-location and detects the season in the area.
+
